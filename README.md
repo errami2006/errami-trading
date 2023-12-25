@@ -1,0 +1,2 @@
+# errami-trading
+bot trading
